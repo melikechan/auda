@@ -3,8 +3,13 @@
 
 #include <QMainWindow>
 
-namespace Ui { class HomePage; }
+namespace Auda {
+namespace UI {
 
+namespace Ui
+{
+    class HomePage;
+}
 
 class HomePage : public QMainWindow
 {
@@ -18,4 +23,6 @@ private:
     Ui::HomePage *ui;
 };
 
+} // namespace UI
+} // namespace Auda
 #endif // HOMEPAGE_H

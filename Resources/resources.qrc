@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Assets/play_arrow_black_24dp.svg</file>
+        <file>Assets/skip_previous_black_24dp.svg</file>
+        <file>Assets/skip_next_black_24dp.svg</file>
+        <file>Assets/pause_black_24dp.svg</file>
+        <file>Assets/repeat_black_24dp.svg</file>
+        <file>Assets/shuffle_black_24dp.svg</file>
+        <file>Assets/stop_black_24dp.svg</file>
+        <file>Assets/folder_black_24dp.svg</file>
+        <file>Assets/repeat_one_black_24dp.svg</file>
+    </qresource>
+</RCC>

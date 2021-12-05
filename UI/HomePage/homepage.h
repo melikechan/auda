@@ -19,6 +19,9 @@ public:
     explicit HomePage(QWidget *parent = nullptr);
     ~HomePage();
 
+private slots:
+    void on_actionOpen_triggered();
+
 private:
     Ui::HomePage *ui;
 };
